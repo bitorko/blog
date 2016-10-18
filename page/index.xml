@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page-rsses on BD Debate</title>
-    <link>http://bitorko.org/page/index.xml</link>
+    <link>https://bitorko.org/page/index.xml</link>
     <description>Recent content in Page-rsses on BD Debate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://bitorko.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bitorko.org/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contribute</title>
-      <link>http://bitorko.org/contribute/</link>
+      <link>https://bitorko.org/contribute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bitorko.org/contribute/</guid>
+      <guid>https://bitorko.org/contribute/</guid>
       <description>&lt;p&gt;We are always looking for contributors and collaborators to the platform.&lt;/p&gt;
 
 &lt;p&gt;Share your ideas at contribute@bitorko.org&lt;/p&gt;
