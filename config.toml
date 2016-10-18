@@ -1,0 +1,52 @@
+baseurl = "http://bitorko.org/"
+languageCode = "en-us"
+title = "BD Debate"
+theme= "hugo-phlat-theme"
+
+[permalinks]
+    post = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[[menu.header]]
+    name = "Home"
+    weight = 1
+    url = "/"
+
+[[menu.header]]
+    name = "Forum"
+    weight = 2
+    url = "http://forum.bitorko.org"
+
+[[menu.header]]
+    name = "Contribute"
+    weight = 3
+    url = "/contribute/"
+
+[[menu.footer]]
+    name = "About"
+    weight = 2
+    url = "/about/"
+
+[[menu.footer]]
+    name = "Developers"
+    weight = 1
+    url = "https://github.com/bitorko/issues"
+
+[params]
+    keywords = ["default", "keywords", "if", "no", "front", "matter"]
+    description = "A description that will appear as a default if front matter does not exist"
+    google_analytics = "UA-XXXXXXX-YY"
+    google_adsense = "ca-pub-XXXXXXXX"
+    disqus = "bitorko-org"
+    google_webmaster = ""
+    bing_webmaster = ""
+    alexa = ""
+    twitter = ""
+    googleplus = ""
+    linkedin = ""
+    youtube = ""
+    paypal = ""
