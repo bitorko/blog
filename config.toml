@@ -1,4 +1,4 @@
-baseurl = "http://bitorko.org/"
+baseurl = "https://bitorko.org/"
 languageCode = "en-us"
 title = "BD Debate"
 theme= "hugo-phlat-theme"
